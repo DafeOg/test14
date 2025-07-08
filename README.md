@@ -6,7 +6,7 @@
 <h1 align="center">test14 was created using Custom Commands CLI and modified after being forked</h1>
 
 <p align="center">
-  With Custom Commands CLI you can automate and simplify your daily developer tasks across Git, Django, React, Bash, and more.
+  With Custom Commands CLI you can automate and simplify your daily developer tasks across Git, Django, React, Bash, and more. yes and does even more!
   <!-- <br />
   <a href="#usage">View Demo</a>
   ·
